@@ -6,6 +6,17 @@
 3. Programatic Verification
 4. Push to GitHub
 
+# About
+
+This is a decentralized crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quick Start
+
+
 
 
 
